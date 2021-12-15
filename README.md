@@ -1,7 +1,7 @@
 # Задание второго дня
 
 Полезные ссылки:
-1. [Документация Геоскан](docs.geoscan.aero)
+1. [Документация Геоскан](docs.geoscan.aero) [Таймеры](https://docs.geoscan.aero/ru/master/programming/lua/lua.html#id2)
 2. Софт настройки камеры - RunCam [iOS](https://apps.apple.com/us/app/runcam-app/id1015312292#?platform=iphone) [Android](https://play.google.com/store/apps/details?id=com.runcam.runcam2&hl=ru&gl=US)
 3. [Разбитие видео по кадрам](img2go.com)
 4. [Методическое пособие создания 3д модели](https://www.agisoft.com/pdf/MS_1.6_tutorial_ru_3D_Model.pdf)
