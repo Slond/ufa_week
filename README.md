@@ -3,11 +3,12 @@
 Полезные ссылки:
 1. [Документация Геоскан](docs.geoscan.aero) | [Таймеры](https://docs.geoscan.aero/ru/master/programming/lua/lua.html#id2)
 2. Софт настройки камеры - RunCam [iOS](https://apps.apple.com/us/app/runcam-app/id1015312292#?platform=iphone) | [Android](https://play.google.com/store/apps/details?id=com.runcam.runcam2&hl=ru&gl=US)
-3. [Разбитие видео по кадрам](img2go.com)
-4. [Методическое пособие создания 3д модели](https://www.agisoft.com/pdf/MS_1.6_tutorial_ru_3D_Model.pdf)
+3. Если вдруг очень хотите знать больше - [Документация по работе гибридной камеры](https://www.runcam.com/download/Hybrid/RC_Hybrid_Manual_EN.pdf)
+4. [Разбитие видео по кадрам](img2go.com)
+5. [Методическое пособие создания 3д модели](https://www.agisoft.com/pdf/MS_1.6_tutorial_ru_3D_Model.pdf)
 
 Пункты выполнения задачи:
-1. Оптимальным методом (в идеале - Таймеры) создать скрипт lua, позволяющий летать по кругу с поворотом камеры.
+1. Оптимальным методом (в идеале - Таймеры) создать скрипт lua, позволяющий летать по кругу с рысканием в центр окружности.
 2. Флеш-карту с видео передать сотруднику Геоскан. Данное видео с фамилией участника появится в репозитории.
 3. Скачать видео и разбить его по кадрам, используя любой сервис
 4. Запустить программу Agisoft Metashape Standart, используя триал-версию.
