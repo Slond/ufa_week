@@ -4,7 +4,7 @@
 1. [Документация Геоскан](https://docs.geoscan.aero) | [Таймеры](https://docs.geoscan.aero/ru/master/programming/lua/lua.html#id2)
 2. Софт настройки камеры - RunCam [iOS](https://apps.apple.com/us/app/runcam-app/id1015312292#?platform=iphone) | [Android](https://play.google.com/store/apps/details?id=com.runcam.runcam2&hl=ru&gl=US)
 3. Если вдруг очень хотите знать больше - [Документация по работе гибридной камеры](https://www.runcam.com/download/Hybrid/RC_Hybrid_Manual_EN.pdf)
-4. [Разбитие видео по кадрам](https://www.img2go.com)
+4. [Разбитие видео по кадрам](https://www.img2go.com/convert-to-image)
 5. [Методическое пособие создания 3д модели](https://www.agisoft.com/pdf/MS_1.6_tutorial_ru_3D_Model.pdf)
 
 Пункты выполнения задачи:
