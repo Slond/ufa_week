@@ -18,3 +18,5 @@ NB! Так как компьютеры достаточно маломощны, 
 
 Пример созданного кода с подробным описанием находится [здесь](https://github.com/Slond/pioneer_edu/raw/main/Программирование.pdf) - урок 14.
 Код не совсем корректен, так что не копируйте его, не поняв.
+
+Google drive link - https://drive.google.com/drive/folders/1pO8MygJGP_5mKXm1w-ie1yPZgSpXtKk-?usp=sharing
